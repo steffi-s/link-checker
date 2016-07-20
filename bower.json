@@ -1,0 +1,31 @@
+{
+  "name": "link-checker",
+  "version": "v0.1.0",
+  "authors": [
+    "Stefanie Schmidt <stefanie@reneschmidt.de>"
+  ],
+  "description": "simple link checker, which detects and marks dead links",
+  "main": "checkLinks.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "linkchecker",
+    "link",
+    "check",
+    "simple"
+  ],
+  "license": "BSD-3",
+  "homepage": "https://www.reneschmidt.de/DevOps/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steffi-s/link-checker"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

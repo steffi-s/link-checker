@@ -1,6 +1,6 @@
 # README
 
-Very simple link checker in JavaScript an JQuery, which detects, and marks dead links.
+Very simple link checker in JavaScript and JQuery, which detects, and marks dead links.
 
 ## Features
 
