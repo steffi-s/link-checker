@@ -3,7 +3,7 @@
  */
 
 /**
- * LinkChecker by Stefanie Schmidt
+ * link-checker by Stefanie Schmidt
  *
  * simple link checker in JavaScript and JQuery
  *
@@ -13,7 +13,7 @@
  * 2. detects dead links, and marks them red
  *
  * @author Stefanie Schmidt
- * @licence GPL-3 or commercial
+ * @licence BSD-3
  */
 
 (function ($) {

@@ -27,10 +27,8 @@ fabric.properties
 
 # Misc
 .directory
-jquery-3.1.0.min.js
-require-min.js
 require-setup.js
-styles.css
-main.js
+css
+lib
 
 # Created by .ignore support plugin (hsz.mobi)
